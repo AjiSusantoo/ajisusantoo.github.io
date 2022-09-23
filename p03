@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML</title>
+    <style>
+        table,th,td {
+            border:1px solid black;
+        }
+        table tr td {
+            text-align: center;
+        } 
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">Aji Susanto : 41226065</h1>
+    <div>
+        <h3 style="text-align: center;">My Friends</h3>
+        <table style="width: 100%;">
+            <tr>
+                <th>Nomor</th>
+                <th>Nama</th>
+                <th>Alamat</th>
+                <th colspan="2">Aksi</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td >Abu Bakar Sidik</td>
+                <td>Palimanan</td>
+                <td >Edit</td>
+                <td >Hapus</td>
+            </tr>   
+            <tr>
+                <td>2</td>
+                <td >Antoni Nur Yahya</td>
+                <td>Sumber</td>
+                <td >Edit</td>
+                <td >Hapus</td>
+            </tr>
+            <tr >
+                <td>3</td>
+                <td >Arya Gunawan</td>
+                <td>Panguragan</td>
+                <td >Edit</td>
+                <td >Hapus</td>
+            </tr>
+            <tr >
+                <td>4</td>
+                <td >Azharangga kusuma</td>
+                <td>Cirebon</td>
+                <td >Edit</td>
+                <td >Hapus</td>
+            </tr>
+            <tr >
+                <td>5</td>
+                <td >Jamaludin</td>
+                <td>Jamblang</td>
+                <td >Edit</td>
+                <td >Hapus</td>
+            </tr>
+            <tr >
+                <td>6</td>
+                <td >Aldiyansyah Kurniawan</td>
+                <td>Majalengka</td>
+                <td >Edit</td>
+                <td >Hapus</td>
+            </tr>
+            <tr >
+                <td>7</td>
+                <td >Khusnul Ma'arif</td>
+                <td>Brebes</td>
+                <td >Edit</td>
+                <td >Hapus</td>
+            </tr>
+            <tr >
+                <td>8</td>
+                <td >Fauzy</td>
+                <td>Cirebon</td>
+                <td >Edit</td>
+                <td >Hapus</td>
+            </tr>
+            <tr >
+                <td>9</td>
+                <td >Khakim</td>
+                <td>Cirebon</td>
+                <td >Edit</td>
+                <td >Hapus</td>
+            </tr>
+            <tr >
+                <td>10</td>
+                <td >Restianto Putra</td>
+                <td>Cirebon</td>
+                <td >Edit</td>
+                <td >Hapus</td>
+            </tr>
+        
+        </table>
+    </div>
+</body>
+</html>
