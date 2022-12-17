@@ -1,0 +1,133 @@
+.pembungkus {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+}
+
+/* header */
+.header {
+    width: 100%;
+}
+/* akhir header */
+
+/* formulir */
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: "Trirong", sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+
+h1:hover {
+    cursor: pointer;
+    transition: .2s;
+    letter-spacing: 5px;
+}
+h3:hover {
+    margin-top: 30px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+.petunjuk {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Trirong", sans-serif;
+    color: rgb(253, 27, 27);
+
+}
+
+.petunjuk:hover {
+    cursor: pointer;
+    letter-spacing: 5px;
+    transition: .2s;
+}
+
+ol li {
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    color: rgb(253, 27, 27);
+
+}
+
+ol li:hover {
+    cursor: pointer;
+    letter-spacing: 3px;
+    transition: .2s;
+}
+@font-face {
+    font-family: "poppins";
+    src: url("Poppins-Medium.otf");
+  }
+  
+  body {
+    font-family: "poppins";
+  }
+  .pala {
+    font-family: "poppins";
+    font-size: 30px;
+  }
+  
+  legend {
+    color: red;
+  }
+  
+  select:hover {
+    background-color: blanchedalmond;
+  }
+  
+  option:hover {
+    background-color: blanchedalmond;
+  }
+  
+  input:hover {
+    background-color: blanchedalmond;
+  }
+  
+  textarea:hover {
+    background-color: blanchedalmond;
+  }
+  
+  .rule {
+    margin: 0px 0px 0px 1rem;
+    font-size: 25px;
+    color: red;
+  }
+  
+  .image-headers {
+    width: 100%;
+    height: auto;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .image-headers img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .rules {
+    padding-bottom: 1rem;
+    color: red;
+    margin: auto;
+  }
+  
+  button a {
+    color: black;
+    font-family: "poppins";
+    text-decoration: none;
+  }
+  
+.tombol{
+  width: 100%;
+  height: 40px;
+  padding: 5px 0;
+  border: none;
+  background-color:aquamarine;
+  font-size: 18px;
+  color: black;
+  border-radius: 20px;
+}
